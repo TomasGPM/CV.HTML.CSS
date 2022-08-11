@@ -1,0 +1,14 @@
+* {
+  margin: 0%;
+  padding: 20px;
+  border: 5px solid black;
+  outline: 1px blue;
+}
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: ;
+}
+header,
+section {
+  width: 960px;
+}
